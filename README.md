@@ -1,8 +1,8 @@
 # Anki_simulation
 
-Anki scheduling simulation
+Anki scheduling simulation in Pure Python.
 
-## Functionality
+## What it can do
 
 1. Simulate related cards (no two cards are shown on the same day; if 
    multiple cards are scheduled for one day, one is chosen at random).
